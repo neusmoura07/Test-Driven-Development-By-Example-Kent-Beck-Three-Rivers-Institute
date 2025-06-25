@@ -29,4 +29,5 @@ class TestCaseTest(TestCase):
 
 
 TestCaseTest("testRunning").run()
+TestCaseTest("testRunning").run()
 
