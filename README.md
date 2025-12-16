@@ -3,7 +3,7 @@
 Este repositório reúne minhas implementações práticas e estudos baseados no livro 
 **"Test-Driven Development: By Example"**, de Kent Beck.
 
-O foco do projeto é aplicar **TDD na prática**, utilizando o ciclo **Red → Green → Refactor**
+O foco do projeto é aplicar **TDD na prática**, utilizando o ciclo **Red > Green > Refactor**
 para evoluir código Java de forma incremental, simples e totalmente coberta por testes.
 
 ---
